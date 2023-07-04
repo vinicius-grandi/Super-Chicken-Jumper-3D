@@ -15,9 +15,8 @@ git clone <repository_url>
 ```
 ## Open the Project
 ### Unity HUB
-1. Install [Unity HUB](https://unity.com/download)
-2. Open Unity HUB
-3. Click on "Open" and navigate to the directory where you cloned the repository.
+1. Install and open [Unity HUB](https://unity.com/download)
+2. Click on "Dashboard", then "Open" and navigate to the directory where you cloned the repository.
 
 ### Unity Editor
 1. Install [Unity Editor](https://unity.com/releases/editor/archive)
