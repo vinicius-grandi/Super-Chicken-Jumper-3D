@@ -25,4 +25,4 @@ git clone <repository_url>
 3. Click "File", then "Open" and navigate to the directory where you cloned the repository.
 
 ## Loading the Game
-1. Load some specific scene or build
+1. Load some specific scene or build and run the project
