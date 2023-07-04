@@ -2,8 +2,7 @@
 #     https://github.com/github/gitignore/blob/master/Unity.gitignore
 
 /[Ll]ibrary/
-# /Assets/Models
-# /Assets/Resources
+/Assets/DevLocker
 /[Uu]serSettings/
 [Tt]emp/
 [Oo]bj/
