@@ -1,4 +1,4 @@
-# Unity Project with Git Setup
+# Setup
 ## Prerequisites
 
 - Unity Game Engine installed on your system (version compatible with the project).
