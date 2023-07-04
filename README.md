@@ -19,7 +19,7 @@ There's two options, you can either use:
 1. Install and open [Unity HUB](https://unity.com/download)
 2. Install a compatible Unity Editor version, the latest one from 2021 should do.
 3. Click on "Dashboard", then "Open" and navigate to the directory where you cloned the repository.
-
+or:
 ### Unity Editor
 1. Install [Unity Editor](https://unity.com/releases/editor/archive), the latest one from 2021 should do.
 2. Locate and run the executable
